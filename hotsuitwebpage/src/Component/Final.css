@@ -1,0 +1,16 @@
+.final{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.left2{
+    text-align: center;
+    margin-left: 1rem;
+}
+.middle2{
+    text-align: center;
+}
+.right2{
+    text-align: center;
+    margin-right: 1rem;
+}

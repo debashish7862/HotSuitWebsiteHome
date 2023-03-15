@@ -1,0 +1,17 @@
+.main1{
+    background-color: rgb(24,50,91);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(243, 240, 237);
+    height: 18rem;
+    justify-content:center;
+    gap: 2rem;
+    
+}
+button{
+    background-color:rgb(66,134,64) ;
+    padding: 1rem;
+    color:white;
+    border: none;
+}
